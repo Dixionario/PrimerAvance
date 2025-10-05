@@ -36,3 +36,7 @@ Este proyecto fue desarrollado para reforzar conocimientos sobre:
 - **Manejo de archivos e imágenes**  
 - **Interacción con el usuario por consola**  
 - **Principios de la Programación Orientada a Objetos (POO)**  
+
+---
+
+✍️ **Autor:** D’Jehovann Dixon Lawrence  
